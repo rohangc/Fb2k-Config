@@ -1,1 +1,1 @@
-foobar2000 v1.6
+foobar2000 v1.5.5
